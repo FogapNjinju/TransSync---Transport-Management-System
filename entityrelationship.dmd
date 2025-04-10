@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="entityrelationship" id="EC3543D4-0A64-C9FE-5BA7-DB61911ED706" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2025-02-28 10:10:47 UTC</createdTime>
+<ownerDesignName>entityrelationship</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EC3543D4-0A64-C9FE-5BA7-DB61911ED706</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="D3C0E855-5BE8-A115-AC2D-BA27D6D91445">
+<designStoragePath>C:\Users\User\Desktop\DatabaseProjet\ERDIA.drawio</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
